@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "CSC101",
+    "courseTitle": "Introduction to computer science",
+    "courseCode": "CSC101",
+    "courseDescription": "An introduction to computer science as a field of study and the various aspects of it",
+    "duration": 60,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 2,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 3,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 4,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 5,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 6,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 7,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 8,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 9,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 10,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 11,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 12,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 13,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 14,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 15,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 16,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 17,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 18,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 19,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 20,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 21,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 22,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 23,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 24,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 25,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 26,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 27,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 28,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 29,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 30,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": "CSC221",
+    "courseTitle": "Object Oriented Programming",
+    "courseCode": "CSC221",
+    "courseDescription": "A deep dive into Object  Oriented design. The principles, guidelines, pros and cons",
+    "duration": 75,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 2,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 3,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 4,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 5,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 6,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 7,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 8,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 9,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 10,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 11,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 12,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 13,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 14,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 15,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 16,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 17,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 18,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 19,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 20,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 21,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 22,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 23,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 24,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 25,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 26,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 27,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 28,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 29,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 30,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": "CSC305",
+    "courseTitle": "Discrete Structures",
+    "courseCode": "CSC305",
+    "courseDescription": "Understanding the applications and use cases of logic in everyday life ",
+    "duration": 75,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 2,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 3,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 4,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 5,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 6,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 7,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 8,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 9,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 10,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 11,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 12,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 13,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 14,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 15,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 16,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 17,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 18,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 19,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 20,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 21,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 22,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 23,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 24,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 25,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 26,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 27,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 28,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 29,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 30,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": "CSC301",
+    "courseTitle": "Computer Architecture",
+    "courseCode": "CSC301",
+    "courseDescription": "Understanding the components that come together to make up the computer system",
+    "duration": 120,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 2,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 3,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 4,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 5,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 6,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 7,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 8,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 9,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 10,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 11,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 12,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 13,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 14,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 15,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 16,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 17,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 18,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 19,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 20,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 21,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 22,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 23,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 24,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 25,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 26,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 27,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 28,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 29,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 30,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": "CSC203",
+    "courseTitle": "Logic Gates",
+    "courseCode": "CSC203",
+    "courseDescription": "Understanding the various types of logic gates. AND, NOT and OR, plus the extra types",
+    "duration": 45,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 2,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 3,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 4,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 5,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 6,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 7,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 8,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 9,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 10,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 11,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 12,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 13,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 14,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 15,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 16,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 17,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 18,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 19,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 20,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 21,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 22,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 23,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 24,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 25,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 26,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 27,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 28,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 29,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 30,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": "CSC307",
+    "courseTitle": "Operating Systems",
+    "courseCode": "CSC307",
+    "courseDescription": "Understanding the workings of the Operating systems and how it handles tasks/processes",
+    "duration": 120,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 2,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 3,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 4,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 5,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 6,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 7,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 8,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 9,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 10,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 11,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 12,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 13,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 14,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 15,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 16,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 17,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 18,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 19,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 20,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 21,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 22,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 23,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 24,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 25,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 26,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 27,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 28,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 29,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      },
+      {
+        "id": 30,
+        "question": "Suppose we are sorting an array of eight integers using some quadratic sorting algorithm. After four iterations of the algorithm’s main loop, the array elements are ordered as shown here: 2 4 5 7 8 1 3 6",
+        "options": ["Insertion sort", "Selection sort", "Selection sort"],
+        "correctAnswer": "None of the above"
+      }
+    ]
+  }
+]
