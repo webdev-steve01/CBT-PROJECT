@@ -58,7 +58,7 @@ const Page = () => {
       );
       setCurrentCourse(foundCourse);
     }
-  }, [courses]);
+  }, [courses, params.courseID]);
 
   useEffect(() => {
     if (currentCourse) {
@@ -96,7 +96,7 @@ const Page = () => {
 
   useEffect(() => {
     setAnswerValue(userAnswers);
-  }, [userAnswers, answerValue]);
+  }, [userAnswers, answerValue, setAnswerValue]);
 
   // !getting score
   const analyzeAnswers = (
