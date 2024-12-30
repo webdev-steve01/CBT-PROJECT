@@ -135,101 +135,104 @@ export default function CourseLayout() {
     );
   });
 
-  return (
-    <section>
-      <div className="border border-b-[#D1D1D1] py-4 px-8 flex justify-between ">
-        <section>
-          <p className="font-bold">Bells University, Ogun State</p>
-          <p>Computer Based Test (CBT) Examiner Portal</p>
-        </section>
-        <section className="flex gap-6 items-center">
-          <section className="text-black">
-            <p>
-              <span>{length ? length : "0"}</span> Answered out of{" "}
-              <span>{mainCourse?.questions.length}</span>
-            </p>
+  if (mainCourse) {
+    return (
+      <section>
+        <div className="border border-b-[#D1D1D1] py-4 px-8 flex justify-between ">
+          <section>
+            <p className="font-bold">Bells University, Ogun State</p>
+            <p>Computer Based Test (CBT) Examiner Portal</p>
           </section>
-          <section className="px-3 border rounded-full flex items-center bg-[#2F4156] text-white cursor-default">
-            <Link href={`./${params.courseID}/Score`}>Submit</Link>
-          </section>
-        </section>
-      </div>
-      <section className="px-6 flex justify-between py-6">
-        <section className="flex gap-4 self-start">
-          {loading ? (
-            "loading pages..."
-          ) : (
-            <section className="flex gap-4 flex-wrap max-w-[900px] ">
-              <section className="border border-solid border-[#F1F1F1] rounded-[100%] w-[35px] h-[35px] flex justify-center items-center">
-                <Image src={prev} width={20} height={20} alt="previous" />
-              </section>
-              {pages}
-              <section className="border border-solid border-[#F1F1F1] rounded-[100%] w-[35px] h-[35px] flex justify-center items-center">
-                <Image src={next} width={20} height={20} alt="previous" />
-              </section>
+          <section className="flex gap-6 items-center">
+            <section className="text-black">
+              <p>
+                <span>{length ? length : "0"}</span> Answered out of{" "}
+                <span>{mainCourse?.questions.length}</span>
+              </p>
             </section>
-          )}
-        </section>
-        <section className="flex flex-col gap-4 relative">
-          <section className="min-w-[350px] flex flex-col gap-3 px-6 border py-5 ">
-            <p className="flex justify-between">
-              <span>Course Code:</span>
-              <span>
-                {loading ? (
-                  <span className="w-[100px] h-[10px] bg-[#EAECEE]"></span>
-                ) : (
-                  mainCourse?.courseCode
-                )}
-              </span>
-            </p>
-            <p className="flex justify-between ">
-              <span>Course Title:</span>
-              <span>
-                {loading ? (
-                  <span className="w-[100px] h-[10px] bg-[#EAECEE]"></span>
-                ) : (
-                  mainCourse?.courseTitle
-                )}
-              </span>
-            </p>
-            <p className="flex justify-between">
-              <span>Duration:</span>
-              <span>
-                {loading ? (
-                  <span className="w-[100px] h-[10px] bg-[#EAECEE]"></span>
-                ) : (
-                  mainCourse?.examDuration
-                )}
-                {loading ? "" : " mins"}
-              </span>
-            </p>
-          </section>
-          <section className="min-w-[350px] flex flex-col px-6 border py-5 absolute top-[150px] gap-10 ">
-            <section className="flex flex-col gap-4">
-              <section>
-                <p className="font-bold">Student Details</p>
-                <p className="text-[10px]">
-                  Please always confirm your details are correct
-                </p>
-              </section>
-              <section>
-                <p className="font-bold">2018/6990</p>
-                <p>Joel Ovienloba</p>
-              </section>
+            <section className="px-3 border rounded-full flex items-center bg-[#2F4156] text-white cursor-default">
+              <Link href={`./${params.courseID}/Score`}>Submit</Link>
             </section>
-            <button
-              type="button"
-              className="border py-2 rounded-lg border-[#000000]"
-            >
-              Report A Problem
-            </button>
+          </section>
+        </div>
+        <section className="px-6 flex justify-between py-6">
+          <section className="flex gap-4 self-start">
+            {loading ? (
+              "loading pages..."
+            ) : (
+              <section className="flex gap-4 flex-wrap max-w-[900px] ">
+                <section className="border border-solid border-[#F1F1F1] rounded-[100%] w-[35px] h-[35px] flex justify-center items-center">
+                  <Image src={prev} width={20} height={20} alt="previous" />
+                </section>
+                {pages}
+                <section className="border border-solid border-[#F1F1F1] rounded-[100%] w-[35px] h-[35px] flex justify-center items-center">
+                  <Image src={next} width={20} height={20} alt="previous" />
+                </section>
+              </section>
+            )}
+          </section>
+          <section className="flex flex-col gap-4 relative">
+            <section className="min-w-[350px] flex flex-col gap-3 px-6 border py-5 ">
+              <p className="flex justify-between">
+                <span>Course Code:</span>
+                <span>
+                  {loading ? (
+                    <span className="w-[100px] h-[10px] bg-[#EAECEE]"></span>
+                  ) : (
+                    mainCourse?.courseCode
+                  )}
+                </span>
+              </p>
+              <p className="flex justify-between ">
+                <span>Course Title:</span>
+                <span>
+                  {loading ? (
+                    <span className="w-[100px] h-[10px] bg-[#EAECEE]"></span>
+                  ) : (
+                    mainCourse?.courseTitle
+                  )}
+                </span>
+              </p>
+              <p className="flex justify-between">
+                <span>Duration:</span>
+                <span>
+                  {loading ? (
+                    <span className="w-[100px] h-[10px] bg-[#EAECEE]"></span>
+                  ) : (
+                    mainCourse?.examDuration
+                  )}
+                  {loading ? "" : " mins"}
+                </span>
+              </p>
+            </section>
+            <section className="min-w-[350px] flex flex-col px-6 border py-5 absolute top-[150px] gap-10 ">
+              <section className="flex flex-col gap-4">
+                <section>
+                  <p className="font-bold">Student Details</p>
+                  <p className="text-[10px]">
+                    Please always confirm your details are correct
+                  </p>
+                </section>
+                <section>
+                  <p className="font-bold">2018/6990</p>
+                  <p>Joel Ovienloba</p>
+                </section>
+              </section>
+              <button
+                type="button"
+                className="border py-2 rounded-lg border-[#000000]"
+              >
+                Report A Problem
+              </button>
+            </section>
           </section>
         </section>
-      </section>
 
-      <section className="max-w-[700px]">
-        <QuestionPage />
+        <section className="max-w-[700px]">
+          <QuestionPage />
+        </section>
       </section>
-    </section>
-  );
+    );
+  }
+  return <div>no course found</div>;
 }
