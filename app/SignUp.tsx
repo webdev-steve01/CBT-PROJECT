@@ -29,7 +29,7 @@ const SignIn = (props: props) => {
 
   async function addData(email: string, password: string, matric: string) {
     try {
-      const docRef = await addDoc(collection(db, "messages"), {
+      await addDoc(collection(db, "messages"), {
         password: password,
         email: email,
         matric: matric,
