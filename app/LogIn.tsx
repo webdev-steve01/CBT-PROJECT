@@ -92,7 +92,6 @@ const LogIn = () => {
 
     signInWithEmailAndPassword(auth, foundEmail, password)
       .then(() => {
-        alert("success");
         setLoading(false);
         // setMatricExport(matric);
         router.push("./Candidate");

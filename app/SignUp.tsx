@@ -35,7 +35,7 @@ const SignIn = (props: props) => {
         matric: matric,
       });
 
-      alert(`document written with id: ${docRef.id}`);
+      // alert(`document written with id: ${docRef.id}`);
     } catch (error) {
       alert(error);
       return false;
