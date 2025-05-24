@@ -50,6 +50,7 @@ const sendEmail = async (
     );
 
     alert("Result sent to your email!");
+    console.log("Email sent successfully:", result);
     func(false);
   } catch (error) {
     console.error("Error sending email:", error);
