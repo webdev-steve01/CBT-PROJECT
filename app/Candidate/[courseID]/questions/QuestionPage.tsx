@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useEffect, useContext } from "react";
 import { questionContext } from "../../context/courseContext";
-import { useAnswerContext } from "../../context/AnsweContextLayout";
+import { useAnswerContext } from "../../context/AnswerContextLayout";
 import Image from "next/image";
 import { useParams } from "next/navigation";
 
@@ -98,39 +98,6 @@ const QuestionPage = () => {
     setAnswerValue(userAnswers);
     // console.log(answerValue);
   }, [userAnswers, answerValue, setAnswerValue]);
-
-  // !getting score
-  // const analyzeAnswers = (AnswerValue: any, questions: Question[]) => {
-  //   const result: Record<number, string> = {};
-
-  //   if (AnswerValue) {
-  //     Object.entries(AnswerValue).forEach(([questionNumber, userAnswer]) => {
-  //       const question = questions.find(
-  //         (q) => q.id === parseInt(questionNumber, 10)
-  //       );
-
-  //       if (question) {
-  //         // Compare user's answer with the specific question's correct answers
-  //         const isCorrect =
-  //           JSON.stringify(userAnswer.sort()) ===
-  //           JSON.stringify(question.correctAnswers.sort());
-  //         result[question.id] = isCorrect ? "Correct" : "Incorrect";
-  //       } else {
-  //         result[parseInt(questionNumber, 10)] = "Question not found";
-  //       }
-  //     });
-  //   }
-
-  //   return result;
-  // };
-
-  // const analysisResult = analyzeAnswers(
-  //   answerValue,
-  //   currentCourse?.questions || []
-  // );
-
-  // console.log(analysisResult);
-  // Render question options
   const options = currentQuestion?.options.map((option, index) => {
     const isChecked =
       userAnswers[currentQuestion.id]?.includes(option.text) || false;

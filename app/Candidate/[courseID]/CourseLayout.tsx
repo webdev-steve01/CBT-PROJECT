@@ -7,7 +7,7 @@ import prev from "@/public/back-svgrepo-com.svg";
 import { useEffect, useState } from "react";
 import { useContext } from "react";
 import { questionContext } from "../context/courseContext";
-import { useAnswerContext } from "../context/AnsweContextLayout";
+import { useAnswerContext } from "../context/AnswerContextLayout";
 import Link from "next/link";
 import QuestionPage from "./questions/QuestionPage";
 

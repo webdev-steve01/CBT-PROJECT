@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useEffect, useContext } from "react";
 import { questionContext } from "../../context/courseContext";
-import { useAnswerContext } from "../../context/AnsweContextLayout";
+import { useAnswerContext } from "../../context/AnswerContextLayout";
 import Image from "next/image";
 import { useParams } from "next/navigation";
 

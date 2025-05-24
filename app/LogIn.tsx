@@ -80,6 +80,8 @@ const LogIn = () => {
     for (const i in userData) {
       if (matric === userData[i].matric) {
         foundEmail = userData[i].email;
+        localStorage.setItem("userEmail", foundEmail);
+        localStorage.setItem("userName", userData[i].matric);
         break;
       }
     }

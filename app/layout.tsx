@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import CourseContextLayout from "./Candidate/context/CourseContextLayout";
-import { AnswerProvider } from "./Candidate/context/AnsweContextLayout";
+import { AnswerProvider } from "./Candidate/context/AnswerContextLayout";
 import { CorrectnessProvider } from "./Candidate/context/CorrectContextLayout";
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -25,7 +25,6 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  // const [questionNumber, setQuestionNumber] = useState(0);
   return (
     <html lang="en">
       <body
